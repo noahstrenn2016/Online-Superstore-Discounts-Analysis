@@ -1,16 +1,18 @@
-### Hi there 👋
+# Online Store Data Analysis Project
 
-<!--
-**noahstrenn2016/noahstrenn2016** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Overview
+This is a project that I created using a dataset based on an online superstore. Data analysis was used to determine if the amount of discounts given were hurting the company's profits.
 
-Here are some ideas to get you started:
+## Technical skills used
+- Excel
+- SQL
+- Tableau
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Data Analysis Process
+1. Define business problem to answer key questions for stakeholders
+2. Load dataset into IBM DB2 SQL database
+3. Clean data to be used for analysis
+4. Import data into Tableau to be used for visualizations
+5. Create dashboard and presentation for stakeholders and share insights
+
+## Deliverables
