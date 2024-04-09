@@ -16,4 +16,4 @@ This is a project that I created using a dataset based on an online superstore. 
 ## Deliverables 
 - [Discount Orders Tableau Dashboard](https://public.tableau.com/app/profile/noah.strenn/viz/SuperstoreDiscountOrdersDashboard/DiscountOrderDashboard)
 - [Patterns of Losses Interactive Tableau Presentation](https://public.tableau.com/app/profile/noah.strenn/viz/PatternsofLossesStory_17111423706920/PatternofLosses)
-- 
+- [Superstore Discounts Powerpoint](https://github.com/noahstrenn2016/noahstrenn2016/blob/main/Superstore%20Discounts%20Presentation.pptx)
