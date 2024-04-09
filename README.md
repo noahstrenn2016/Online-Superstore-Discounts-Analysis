@@ -13,4 +13,5 @@ This is a project that I created using a dataset based on an online superstore. 
 3. Import data into Tableau to be used for visualizations
 4. Create dashboard and presentation for stakeholders and share insights
 
-## Deliverables
+## Deliverables 
+- [Tableau Dashboard](https://public.tableau.com/app/profile/noah.strenn/viz/SuperstoreDiscountOrdersDashboard/DiscountOrderDashboard)
