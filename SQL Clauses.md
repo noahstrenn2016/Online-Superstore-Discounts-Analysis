@@ -1,4 +1,4 @@
-This SQL query returns the most popular films, rental rates, and generated revenue ordered by the number of times rented.
+This SQL query returns the 
 
 Here is the SQL query:
 
