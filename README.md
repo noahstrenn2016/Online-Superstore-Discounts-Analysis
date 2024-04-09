@@ -14,4 +14,4 @@ This is a project that I created using a dataset based on an online superstore. 
 4. Create dashboard and presentation for stakeholders and share insights
 
 ## Deliverables 
-- [Tableau Dashboard](https://public.tableau.com/app/profile/noah.strenn/viz/SuperstoreDiscountOrdersDashboard/DiscountOrderDashboard)
+- [Discount Orders Tableau Dashboard](https://public.tableau.com/app/profile/noah.strenn/viz/SuperstoreDiscountOrdersDashboard/DiscountOrderDashboard)
